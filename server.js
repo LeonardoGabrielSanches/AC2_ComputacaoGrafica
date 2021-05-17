@@ -6,7 +6,3 @@ app.use('/', express.static(__dirname))
 app.get('/', (req, res) => {
   res.sendFile(__dirname + '/index.html');
 })
-
-app.listen(3333, function () {
-  console.log('server listening on port 3333')
-})
