@@ -1,0 +1,11 @@
+{
+  "name": "ac2",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "repository": "https://github.com/LeonardoGabrielSanches/AC2_ComputacaoGrafica.git",
+  "author": "Leonardo Sanches <sleonardogabriel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
